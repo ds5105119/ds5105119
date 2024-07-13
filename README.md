@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&height=180&color=timeGradient&text=IIH®%20Github&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=55&fontColor=FFFFFF&fontAlignY=54)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=180&color=timeGradient&text=IIH®%20Github&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=55&fontColor=FFFFFF&fontAlignY=52)
 
 <div align=center>
 <!--소개-->
