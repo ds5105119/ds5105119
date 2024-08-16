@@ -45,23 +45,22 @@ Hi, I am trying to become a nice developer😎
 <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
 <br/><br/>
 
-<!--공부중 -->
 
 # Studying :pencil2: 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-<!--백-->
 <br/>
 <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/>
-<!--언어 및 툴 --> <br/>
-
 <br/><br/>
+
  
-# Problem Solving :muscle: 
+# Problem Solving and etc
 </a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ds5105119)](https://solved.ac/ds5105119)<br/>
 
-<br/><br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ds5105119)](https://github.com/ds5105119/)<br/>
+
+<br/><br/>
 
 </div>
