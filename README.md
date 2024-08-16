@@ -43,6 +43,8 @@ Hi, I am trying to become a nice developer😎
 <!--언어 및 툴 -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/espressif-E7352C?style=flat&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 <br/><br/>
 
 
