@@ -33,6 +33,7 @@ Hi, I am trying to become a nice developer😎
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-ECDC5A?style=flat&logo=javascript&logoColor=white"/>
 <br/>
 <!--백-->
 <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white"/>
