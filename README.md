@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/ds5105119/ds5105119/main/assets/stack.png"/>
- 
-# Problem Solving and etc
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ds5105119)](https://solved.ac/ds5105119)<br/>
-
 <br/><br/>
+</div>
+
+# ETC
+🔗 [https://solved.ac/ds5105119](https://solved.ac/ds5105119)
+<br/>
+🔗 [https://blog.naver.com/garden2040](https://blog.naver.com/garden2040)
 
 <!--START_SECTION:waka-->
 
@@ -30,5 +31,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-</div>
