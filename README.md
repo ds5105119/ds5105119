@@ -13,16 +13,6 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-<!--소개-->
-
-# Introduction :raised_hands:
-Hi, I am trying to become a nice developer😎
-<br/><br/>
-
-
-<!--기술스택-->
-# Skill :four_leaf_clover:
-
 <img src="https://raw.githubusercontent.com/ds5105119/ds5105119/main/assets/stack.png"/>
  
 # Problem Solving and etc
