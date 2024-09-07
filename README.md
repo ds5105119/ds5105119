@@ -66,4 +66,7 @@ Hi, I am trying to become a nice developer😎
 
 <br/><br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
