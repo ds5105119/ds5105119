@@ -29,35 +29,6 @@ Hi, I am trying to become a nice developer😎
 # Skill :four_leaf_clover:
 
 <img src="https://raw.githubusercontent.com/ds5105119/ds5105119/main/assets/stack.png"/>
-
-<!--언어-->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-ECDC5A?style=flat&logo=javascript&logoColor=white"/>
-<br/>
-<!--백-->
-<img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-<br/>
-<!--언어 및 툴 -->
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/espressif-E7352C?style=flat&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
-<br/><br/>
-
-
-# Studying :pencil2: 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/>
-<br/><br/>
-
  
 # Problem Solving and etc
 </a>
