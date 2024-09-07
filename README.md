@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ds5105119/ds5105119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,9 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
 -->
-
-<!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&height=180&color=timeGradient&text=IIH®%20Github&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=55&fontColor=FFFFFF&fontAlignY=52)
 
 <div align=center>
 <!--소개-->
