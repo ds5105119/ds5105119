@@ -28,6 +28,8 @@ Hi, I am trying to become a nice developer😎
 <!--기술스택-->
 # Skill :four_leaf_clover:
 
+<img src="https://raw.githubusercontent.com/ds5105119/ds5105119/main/assets/stack.png"/>
+
 <!--언어-->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/>
