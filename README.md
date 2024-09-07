@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/ds5105119/ds5105119/main/assets/stack.png"/>
  
 # Problem Solving and etc
-</a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ds5105119)](https://solved.ac/ds5105119)<br/>
 
