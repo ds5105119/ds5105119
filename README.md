@@ -62,8 +62,6 @@ Hi, I am trying to become a nice developer😎
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ds5105119)](https://solved.ac/ds5105119)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ds5105119)](https://github.com/ds5105119/)<br/>
-
 <br/><br/>
 
 <!--START_SECTION:waka-->
