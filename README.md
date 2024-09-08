@@ -25,11 +25,4 @@ Here are some ideas to get you started:
 🔗 [https://blog.naver.com/garden2040](https://blog.naver.com/garden2040)
 
 <!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
