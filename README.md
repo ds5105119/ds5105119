@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 # ETC
+📈 Steep learning curve
 🔗 [https://iihus.com](https://iihus.com)
 <br/>
 🔗 [https://solved.ac/ds5105119](https://solved.ac/ds5105119)
