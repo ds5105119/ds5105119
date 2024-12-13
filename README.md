@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/ds5105119/ds5105119/main/assets/stack6.png"/>
+<img src="https://raw.githubusercontent.com/ds5105119/ds5105119/main/assets/stack.png"/>
 <br/>
 <img src="https://raw.githubusercontent.com/ds5105119/ds5105119/main/assets/break2.png"/>
 </div>
